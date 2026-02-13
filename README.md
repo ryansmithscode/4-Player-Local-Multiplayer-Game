@@ -1,4 +1,4 @@
-# 4 Player Couch Multiplayer Game (2023)
+# 4 Player Local Multiplayer Game (2023)
 
 Returning to the role of sole programmer and project lead, the other three developers fulfilled their role of 3D Modelers and Concept Artist. Programming required an abundance of time but quality control, environmental lighting and UI design was accomplished alongside it.
 
