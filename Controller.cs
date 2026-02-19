@@ -190,7 +190,7 @@ public class Controller : MonoBehaviour
         canMove = true; 
     }
 
-    //-----------------------------------Abilities----------------------------
+    //-----------------------------------Delaying Ability Use----------------------------
     private IEnumerator ResetDash()
     {
         yield return new WaitForSeconds(0.5f);
@@ -237,4 +237,5 @@ public class Controller : MonoBehaviour
             }
         }
     }
+
 }
